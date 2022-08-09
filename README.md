@@ -3,7 +3,9 @@
 
 The following project performed as a part of "Machine Learning in 3D" offered by Technical University of Munich. It implements [3D-R2N2](http://3d-r2n2.stanford.edu/) model in Pytorch with [Weights & Biases](https://wandb.ai) integration.
 
-All the model weights and related artifacts can be found in our [project page](https://wandb.ai/ml43d-project/3dr2n2).
+All the model weights and related artifacts can be found in our [project page](https://wandb.ai/ml43d-project/3dr2n2).  
+  
+Report for the project can be found in root folder named as `"Report.pdf"`
 
 # Project Members
 1. Cervera, Pascual Tejero
